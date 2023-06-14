@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/12/24/02/14/music-1106439_1280.jpg"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/10/13/16/objects-2622632_1280.jpg"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/30/08/46/living-room-1872192_1280.jpg"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/08/14/23/pocket-watch-560937_1280.jpg"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/29/14/53/camera-431119_1280.jpg"
+    }
+  ]
